@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/joinnus/StudioProjects/ytv/C:\\Users\\Rana\\Downloads\\Android-Youtube-LiveStream-master\\MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "/home/joinnus/StudioProjects/ytv/C:\\Users\\Rana\\Downloads\\Android-Youtube-LiveStream-master\\MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/joinnus/StudioProjects/ytv/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/joinnus/StudioProjects/ytv/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/res/layout-sw600dp/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/joinnus/StudioProjects/ytv/E:\\Per\\code\\ytv\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "/home/joinnus/StudioProjects/ytv/E:\\Per\\code\\ytv\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+    }
+]
