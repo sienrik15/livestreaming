@@ -7,7 +7,8 @@ local.properties
 .DS_Store
 /build
 /ytv/MainActivity.iml
-/ytv/build
-/ytv/*.apk
+/app/app.iml
+/app/build
+/app/*.apk
 /captures
 .externalNativeBuild
